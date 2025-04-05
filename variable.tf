@@ -2,6 +2,6 @@ variable "core_count" {
 type = number  
 }
 
-variable "thraed_count" {
+variable "thread_count" {
     type = number
 }
